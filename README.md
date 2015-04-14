@@ -47,11 +47,11 @@ The below describes steps to open up the command line in on a OSX ([Mac](https:/
 	<br><img src="https://github.com/Learning-Fuze/git-workflow/blob/assets/assets/windows-git-bash-alt.jpg?raw=true" height="300">
 
 ### Step 3 - Cloning the repo
-1. Type in the following into your command line 
-	- `git clone https://github.com/Learning-Fuze/html-forms.git` and hit enter
+. Type in the following into your command line 
+	- `git clone https://github.com/[your-user-name]/html-forms.git` and hit enter. **Replace [your-user-name] with the your github username
 		- The **clone** command tells git to save the contents of the master branch onto your computer within the current directory.
 		- **Note**
-			- Using the command above will automatically create a directory with the same name as the Repo. In this example **web-1**
+			- Using the command above will automatically create a directory with the same name as the Repo. In this example **html-forms**
 			- The url after the word **clone** can be found in the right hand side panel of this page under the Settings link. You can click the button to the right of the url that will automatically copy this url for you
 2. Then type `cd html-forms` and hit enter
 - Leave your console window open, we will be using it again shortly.

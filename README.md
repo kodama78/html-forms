@@ -1,6 +1,6 @@
 # HTML Forms
 
-This reposiotry (**repo**) was built to run through a step by step process to get familar with Forms and CSS. We will be using the following tools in this repo:
+This repository (**repo**) was built to run through a step by step process to get familar with Forms and CSS. We will be using the following tools in this repo:
 - Git using Terminal (Mac) or GitBash (Windows) - [Download](http://git-scm.com/downloads)
 - Github.com
 - SublimeText 3 Text Editor - <a href="http://www.sublimetext.com/3" target="_blank">Download</a>

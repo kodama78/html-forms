@@ -64,7 +64,7 @@ Build the **HTML** structure for these 3 forms within the 3 respecitve pages. Fo
 ### Step 1 - Opening your html-forms directory
 
 - Start SublimeText Editor application
-- Open html-forms directory by clicking on File->Open
+- Open html-forms directory by clicking on File->Open Folder
 	- Select the html-forms folder under the sandbox folder on your desktop
 
 ### Step 2 - Add HTML form 1 elements

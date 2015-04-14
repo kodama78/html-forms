@@ -71,7 +71,7 @@ Build the **HTML** structure for these 3 forms within the 3 respecitve pages. Fo
 
 1. Open the form1.html file by clicking on the file name on the left hand side in SublimeText
 2. Insert in HTML structure into the body tag that would duplicate the look of the image below. **Note** You should only have the HTML and no CSS yet. 
-<a href="https://raw.githubusercontent.com/Learning-Fuze/html-forms/master/form1.html" target="_blank">Here is an example of how it may look</a>
+<a href="http://htmlpreview.github.io/?https://github.com/Learning-Fuze/html-forms/blob/scbowler/form1.html" target="_blank">Here is an example of how it may look</a>
 3. View in the browser
 	- Navigate to the html-forms folder
 	- Right click on the form1.html file and select open with Chrome
@@ -83,7 +83,7 @@ Build the **HTML** structure for these 3 forms within the 3 respecitve pages. Fo
 
 1. Open the form2.html file by clicking on the file name on the left hand side in SublimeText
 2. Insert in HTML structure into the body tag that would duplicate the look of the image below. **Note** You should only have the HTML and no CSS yet. 
-<a href="https://raw.githubusercontent.com/Learning-Fuze/html-forms/master/form2.html" target="_blank">Here is an example of how it may look</a>
+<a href="http://htmlpreview.github.io/?https://github.com/Learning-Fuze/html-forms/blob/scbowler/form2.html" target="_blank">Here is an example of how it may look</a>
 3. View in the browser
 	- Navigate to the html-forms folder
 	- Right click on the form2.html file and select open with Chrome
@@ -95,7 +95,7 @@ Build the **HTML** structure for these 3 forms within the 3 respecitve pages. Fo
 
 1. Open the form3.html file by clicking on the file name on the left hand side in SublimeText
 2. Insert in HTML structure into the body tag that would duplicate the look of the image below. **Note** You should only have the HTML and no CSS yet. 
-<a href="https://raw.githubusercontent.com/Learning-Fuze/html-forms/master/form3.html" target="_blank">Here is an example of how it may look</a>
+<a href="http://htmlpreview.github.io/?https://github.com/Learning-Fuze/html-forms/blob/scbowler/form3.html" target="_blank">Here is an example of how it may look</a>
 3. View in the browser
 	- Navigate to the html-forms folder
 	- Right click on the form3.html file and select open with Chrome

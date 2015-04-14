@@ -48,7 +48,7 @@ The below describes steps to open up the command line in on a OSX ([Mac](https:/
 
 ### Step 3 - Cloning the repo
 1. Type in the following into your command line 
-	- `git clone https://github.com/[your-user-name]/html-forms.git` and hit enter. **Replace [your-user-name] with the your github username
+	- `git clone https://github.com/[your-user-name]/html-forms.git` and hit enter. **Replace [your-user-name] with the your github username**
 		- The **clone** command tells git to save the contents of the master branch onto your computer within the current directory.
 		- **Note**
 			- Using the command above will automatically create a directory with the same name as the Repo. In this example **html-forms**

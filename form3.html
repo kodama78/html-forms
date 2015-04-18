@@ -4,34 +4,37 @@
     <head>
         <meta charset="utf-8">
         <title>Contact Form 3</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
 
-    <body>
-    	<div>
-    		<header>
-    			<h3>Instructions for Application - Academic Year 2014</h3>
+    <body class="form3">
+    	<section class="form3">
+    		<header class="form3">
+    			<h3 class="form3">Instructions for Application - Academic Year 2014</h3>
     		</header>
-    		<div>
-    			<ol>
-    				<li>The deadline for 2015-2016 scholarship application: March 30, 2015. Applications received after March 30 will be considered on a funds available basis.</li>
-    				<li>Only completed applications will be considered. Do Not Leave Items Blank.</li>
-    				<li>Attach a current copy of your high school and/or college transcripts.</li>
-    				<li>Two signed letters of recommendation (from non-relatives) must be attached to this application.</li>
-    			</ol>
-			<div>
-				<p>Consideration for any scholarship award is based on a point system including GPA, participation in extra-curricular activities, school organizations and community service. This will be a four semester scholarship, and you must maintain criteria set in the guidelines.</p>
-			</div>
-			<h3>Application Data</h3>
-			<form>
-				<input type="text" name="fullName" id="full-name" placeholder="last name, first name, MI">
-				<input type="text" name="ssn" id="ssn" placeholder="Social Security #">
-				<input type="text" name="address" id="address" placeholder="City, State, Zip, County">
-				<input type="text" name="homePhone" id="homePhone" placeholder="Permanent Home Phone #">
-				<input type="text" name="major" id="major" placeholder="Intended major at university">
-				<input type="text" name="location" id="location" placeholder="At which location will you be stuyding?">
-			</form>
-			<button id="next">next</button>
-    	</div>
+            <fieldset class="form3">
+        			<ol class="form3">
+        				<li>The deadline for 2015-2016 scholarship application: March 30, 2015. Applications received after March 30 will be considered on a funds available basis.</li>
+        				<li>Only completed applications will be considered. Do Not Leave Items Blank.</li>
+        				<li>Attach a current copy of your high school and/or college transcripts.</li>
+        				<li>Two signed letters of recommendation (from non-relatives) must be attached to this application.</li>
+        			</ol>
+    				<p class="form3">Consideration for any scholarship award is based on a point system including GPA, participation in extra-curricular activities, school organizations and community service. This will be a four semester scholarship, and you must maintain criteria set in the guidelines.</p>
+    
+    			<h2 class="form3">Applicant Data</h2>
+    			<form class="form3">
+    				<input class="form3" type="text" name="fullName" id="full-name" placeholder="last name, first name, MI">
+    				<input type="text" name="ssn" id="ssn" style="width:150px" placeholder="Social Security #">
+    				<input class="form3" type="text" name="address" id="address" placeholder="City, State, Zip, County">
+    				<input class="form3" type="text" name="homePhone" id="homePhone" placeholder="Permanent Home Phone #">
+    				<input class="form3" type="text" name="major" id="major" placeholder="Intended major at university">
+    				<input class="form3" type="text" name="location" id="location" placeholder="At which location will you be stuyding?">
+                    
+    			</form>
+                <button id="next">NEXT<small>>></small></button>
+    			
+            </fieldset>
+    	</section>
     </body>
 
 </html>

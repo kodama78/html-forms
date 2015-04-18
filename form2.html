@@ -4,34 +4,44 @@
     <head>
         <meta charset="utf-8">
         <title>Contact Form 2</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
 
     <body>
-    	<div>
-	    	<h1>Contact Form</h1>
-	    	<p>Please fill all the texts in the fields.</p>
-	    	<div>
-	    		<label for="yourname">Your Name:</label>
-	    		<input type="text" name="yourname" id="yourname" placeholder="Your Full Name"><br>
-	    	</div>
-	    	<div>
-	    		<label for="youremail">Your Email:</label>
-	    		<input type="email" name="email-address" id="youremail" placeholder="Valid Email Address">
-	    	</div>
-	    	<div>
-	    		<label for="message">Message:</label>
-	    		<textarea name="message" cols="30" rows="5" id="message"placeholder="Your Message to Us"></textarea>
-	    	</div>
-	    	<div>
-	    		<label for="subject">Subject</label>
-	    		<select name="reason">
-	    			<option value="job">Job Inquiry</option>
-	    			<option value="application">Application Status</option>
-	    			<option value="other">Other</option>
-	    		</select>
-	    	</div>
-	    	<button id="submit">Send</button>
-    	</div>
+    	<section id = "formholder-form2">
+    		<header class="header-form2">
+    			<h1>Contact Form</h1>
+	    		<p>Please fill all the texts in the fields.</p>
+    		</header>
+	    	
+	    	<fieldset class="fieldset-form2">
+	    		
+    		<label class="label-form2" for="yourname"><!-- -->Your Name:
+    			<input class="input-form2" type="text" name="yourname" id="yourname" placeholder="Your Full Name">
+    		</label>
+    	
+    	
+    		<label class="label-form2" for="youremail">Your Email:
+    			<input class="input-form2" type="email" name="email-address" id="youremail" placeholder="Valid Email Address">
+    		</label><!--
+    	
+    	
+    		--><label class="label-form2" for="message">Message:
+    			<textarea class="input-form2 textarea-form2" name="message" cols="30" rows="5" id="message"placeholder="Your Message to Us"></textarea>
+    		</label>
+    	
+    		<label class="input-form2 label-form2" for="subject">Subject
+    			<select class="label-form2 select-form2" name="reason">
+    				<option value="job">Job Inquiry</option>
+    				<option value="application">Application Status</option>
+    				<option value="other">Other</option>
+    			</select>
+    		</label>
+    	
+    		<button id="submit-form2">Send</button>
+	    	</fieldset>
+	    	
+    	</section>
     </body>
 
 </html>

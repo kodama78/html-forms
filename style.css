@@ -1,3 +1,5 @@
+/* CSS FOR FORM1 */
+
 #form-holder {
 	width: 460px;
 	height: 390px;
@@ -83,4 +85,158 @@ select {
 	border: none;
 	box-shadow: 1px 1px 2px #888;
 
+}
+
+/*
+
+======================================
+CSS FOR FORM2
+======================================
+
+*/
+
+/* FORM DIMENSIONS */
+
+#formholder-form2 {
+	width: 520px;
+	height: 480px;
+	background-color: #f3f3f3;
+	border-radius: 6px;
+}
+
+/* HEADER */
+
+.header-form2 {
+	background-color: #9ec45f;
+	font-style: arial, sans-serif;
+	color: white;
+	border-radius: 6px 6px 0 0;
+	margin-bottom: 0;
+}
+
+header h1 {
+	font-size: 24px;
+	font-weight: 500;
+
+}
+
+header p {
+	font-size: 14px;
+	font-weight: 500;
+	padding-bottom: 5px;
+}
+
+/* FORM BODY */
+
+.fieldset-form2{
+	border: none;
+
+
+}
+.label-form2 {
+	color: #595959;
+	font-family: arial, sans-serif;
+	font-size: 12px;
+	width: 440px;
+	text-align: left;
+	margin-left: 30px;
+
+}
+
+.input-form2 {
+	width:440px;
+	height: 25px;
+	margin-left: 30px;
+	font-size: 13px;
+}
+.textarea-form2 {
+	height: 90px;
+}
+
+.select-form2 {
+	width: 452px;
+}
+#submit-form2 {
+	margin-top: 20px;
+	font-size: 14px;
+	display: block;
+	color: white;
+	border-radius: 6px;
+	height: 40px;
+	width: 90px;
+	margin-left: 28px;
+	border: none;
+	background-color: #9ec45f;
+}
+
+/*
+======================================
+CSS FOR FORM3
+======================================
+*/
+body { 
+}
+
+/* HEADER */
+.form3 section{
+	color: white;
+	background-color: #b13939;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	width: 850px;
+	height: 530px;
+}
+.form3 h3 {
+	text-align: center;
+	margin: 10px 0 0 0;
+	padding: 25px 0 0 20px;
+	font-size: 22px;
+}
+
+.form3 header {
+	border: none;
+}
+/* FIELDSET */
+
+.form3 fieldset {
+	border: none;
+	margin: 0 10px 10px 50px;
+	font-size: 8px;
+}
+.form3 ol {
+	padding: 10px 10px 10px 45px;
+}
+.form3 ol li {
+	padding: 0px 0 2px 0;
+}
+.form3 h2 {
+	text-align: left;
+	font-size: 22px;
+	margin-left: 30px;
+}
+.form3 form {
+	margin-left: 30px;
+}
+.form3 input {
+	float: none;
+	height: 40px;
+	width: 300px;
+	margin: 8px 3px;
+	box-shadow: 0 2px 5px #8e4123;
+}
+
+.SSN input {
+	width: 150px;
+}
+/* BUTTON */
+#next {
+	float: right;
+	color: white;
+	font-size: 12px;
+	width: 175px;
+	height: 50px;
+	border: none;
+	background-color: #881817;
+	margin-top: 25px;
+	margin-right: 112px;
+	box-shadow: 0 2px 10px #8e4123;
 }
